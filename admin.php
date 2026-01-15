@@ -132,7 +132,7 @@ if (!isset($_SESSION['username'])) {
 <!-- ================= FOOTER ================= -->
 <footer class="text-center p-3 bg-danger-subtle">
     <div>
-        <a href="https://www.instagram.com/udinusofficial">
+        <a href="https://www.instagram.com/faris_syahrull/">
             <i class="bi bi-instagram h2 p-2 text-dark"></i>
         </a>
         <a href="https://twitter.com/udinusofficial">
